@@ -36,7 +36,7 @@ Follow these steps to get your development environment set up.
 2.  **Navigate to the Project Directory**
 
     ```bash
-    cd syng
+    cd syngmongo
     ```
 
 3.  **Install Dependencies**
