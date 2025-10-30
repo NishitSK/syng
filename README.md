@@ -1,4 +1,4 @@
-# [Your Project Title]
+# SYNERGIA EVENT HANDLING
 
 A RESTful API built with **Node.js**, **Express**, and **MongoDB (Mongoose)** to manage event bookings.
 
